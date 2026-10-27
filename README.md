@@ -44,4 +44,4 @@ level of a state. Risk classifications are analytical categories used in this
 project, not official safety ratings.
 
 ## Author
-Data Analyst Project
+Khushi Patil Aspiring Data Analyst 
